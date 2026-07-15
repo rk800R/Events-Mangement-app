@@ -60,7 +60,7 @@ Customize the app to fit your preferences:
 
 | Agenda View | Day View | Week View | Month View |
 |:----------:|:---------:|:--------:|:-----------:|
-| <img src="Screenshots/WhatsApp Image 2026-07-15 at 10.53.31 PM.jpeg" width="200"> | <img src="Screenshots/WhatsApp Image 2026-07-15 at 10.53.32 PM (1).jpeg" width="200"> | <img src="Screenshots/WhatsApp Image 2026-07-15 at 10.53.32 PM (2).jpeg" width="200"> | <img src="Screenshots/WhatsApp Image 2026-07-15 at 10.53.32 PM.jpeg" width="200"> |
+| <img src="Screenshots/WhatsApp Image 2026-07-15 at 10.53.31 PM.jpeg" width="200"> | <img src="Screenshots/WhatsApp Image 2026-07-15 at 10.53.32 PM (1).jpeg" width="200"> | <img src="Screenshots/WhatsApp Image 2026-07-15 at 10.53.32 PM (2).jpeg" width="200"> | <img src="Screenshots/Month.jpeg" width="200"> |
 
 ## Getting Started
 
