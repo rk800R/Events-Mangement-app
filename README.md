@@ -20,7 +20,7 @@ A beautifully crafted calendar application built with Flutter that helps you org
 - [Technical Details](#technical-details)
 - [License](#license)
 
-## ✨ Features
+##  Features
 
 ### Multiple Calendar Views
 
@@ -58,7 +58,7 @@ Customize the app to fit your preferences:
 
 ## Screenshots
 
-| Month View | Week View | Day View | Agenda View |
+| Month View | Day View | Week View | Agenda View |
 |:----------:|:---------:|:--------:|:-----------:|
 | <img src="Screenshots/WhatsApp Image 2026-07-15 at 10.53.31 PM.jpeg" width="200"> | <img src="Screenshots/WhatsApp Image 2026-07-15 at 10.53.32 PM (1).jpeg" width="200"> | <img src="Screenshots/WhatsApp Image 2026-07-15 at 10.53.32 PM (2).jpeg" width="200"> | <img src="Screenshots/WhatsApp Image 2026-07-15 at 10.53.32 PM.jpeg" width="200"> |
 
